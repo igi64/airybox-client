@@ -1,4 +1,4 @@
-airybox-client
+AiryBox Client
 ==============
 
-IBP Resource Client
+Identity-Based Privacy (IBP) Resource Client.  
